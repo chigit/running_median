@@ -1,0 +1,7 @@
+This calculates the running_median of the number of words in lines of a text file.
+
+To run the program, type in the following at the terminal:
+running_median()
+
+
+The output file is written to med_result.txt in a set directory
